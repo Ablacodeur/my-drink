@@ -1,0 +1,28 @@
+body{
+    font-family: 'Great Vibes', cursive;
+    background: linear-gradient(#fcfbfb, #9198e5);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+
+}
+.instructions{
+    font-family: 'Merriweather', serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cocktailImg{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 3px;
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
